@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![Image of deadzone](https://github.com/raulvishal/IFEW/blob/master/dead_zone.pdf)
+![Image of deadzone](https://github.com/raulvishal/IFEW/blob/master/dead_zone.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
