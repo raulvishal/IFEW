@@ -14,7 +14,7 @@
 ```markdown
 Syntax highlighted code block
 Things get hilighted here
-```
+
 
 
 # Header 1
@@ -31,6 +31,7 @@ Things get hilighted here
 
 [Link](url) and ![Image](src)
 
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
