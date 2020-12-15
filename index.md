@@ -1,4 +1,4 @@
-# Welcome to Iowa food-water-energy (IFEW) systems 
+# Welcome to Iowa food-water-energy (IFEW) 
 
 
 ![Image of deadzone](dead_zone.png)
@@ -31,7 +31,7 @@ Things get hilighted here
 
 [Link](url) and ![Image](src)
 
-```
+```  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
