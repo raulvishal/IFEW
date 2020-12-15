@@ -1,4 +1,4 @@
-# Welcome to Iowa food water energy (IFEW) systems 
+# Welcome to Iowa food-water-energy (IFEW) systems 
 
 
 ![Image of deadzone](dead_zone.png)
