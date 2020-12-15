@@ -1,4 +1,4 @@
-## Welcome to IFEW
+# Welcome to IFEW
 
 Iowa food water energy systems
 
@@ -12,7 +12,7 @@ Iowa food water energy systems
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-%```markdown
+```markdown
 Syntax highlighted code block
 
 # Header 1
