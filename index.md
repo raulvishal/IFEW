@@ -1,4 +1,4 @@
-## Welcome to Vis Pages
+## Welcome to IFEW
 
 You can use the [editor on GitHub](https://github.com/raulvishal/Vis_web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
