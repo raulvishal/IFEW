@@ -4,7 +4,7 @@ Iowa food water energy systems
 
 ### Markdown
 
-![Image of deadzone](https://github.com/raulvishal/IFEW/blob/master/dead_zone.png)
+![Image of deadzone](dead_zone.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
