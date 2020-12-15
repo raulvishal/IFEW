@@ -5,7 +5,7 @@ Iowa food water energy systems
 ![Image of deadzone](dead_zone.png)
 
 
-- Abundant production of corn, 60% goes to ethanol production
+- Abundant production of corn, around 60% goes to ethanol production
 - Heavy use of fertilizers to maximize crop yield
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
